@@ -1,0 +1,49 @@
+#h1{
+
+    color: brown;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial;
+
+}
+h5{
+
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial;
+
+
+
+}
+
+form{
+
+    text-align: center;
+
+}
+
+.text{
+
+    width: 200px;
+
+
+}
+
+.number{
+
+    
+    
+    width: 300px;
+
+
+}
+
+textarea{
+
+
+    resize: none;
+
+    width: 50;
+    height: 10;
+
+}
